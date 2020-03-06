@@ -64,7 +64,7 @@
       }
     });  
 
-/*
+
     // CONTACT FORM
     $("#contact-form").submit(function (e) {
       e.preventDefault();
@@ -96,7 +96,7 @@
       return false;
     });
 
-*/
+
 
 
     // SMOOTHSCROLL
